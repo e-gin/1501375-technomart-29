@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Эльдар Гиниатуллин](https://up.htmlacademy.ru/htmlcss/29/user/1501375).
-* Наставник: [Наталья Рыжова] (https://htmlacademy.ru/profile/id418965).
+* Наставник: [Наталья Рыжова](https://htmlacademy.ru/profile/id418965).
 
 ---
 
